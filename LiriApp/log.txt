@@ -1,0 +1,597 @@
+
+*******************************************************************
+2018-10-18 20:44:32 node liri "concert-this" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:44:35 node liri "concert-this" "" 
+*******************************************************************
+Please provide an artist/band name
+
+*******************************************************************
+2018-10-18 20:44:39 node liri "concert-thiD" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:44:43 node liri "concert-thiD" "Breaking Benjamin" 
+*******************************************************************
+You have entered an invalid command.
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:44:46 node liri "concert-this" "Breaking Benjamin" 
+*******************************************************************
+
+Event number 1
+Name of venue: Intrust Bank Arena
+Location of event: Wichita, KS - United States
+Date of event: 11/06/2018
+
+Event number 2
+Name of venue: Broadmoor World Arena
+Location of event: Colorado Springs, CO - United States
+Date of event: 11/07/2018
+
+Event number 3
+Name of venue: AK Chin Pavilion
+Location of event: Phoenix, AZ - United States
+Date of event: 11/10/2018
+
+Event number 4
+Name of venue: Save Mart Center
+Location of event: Fresno, CA - United States
+Date of event: 11/12/2018
+
+Event number 5
+Name of venue: Golden 1 Center
+Location of event: Sacramento, CA - United States
+Date of event: 11/13/2018
+
+Event number 6
+Name of venue: Veterans Memorial Coliseum
+Location of event: Portland, OR - United States
+Date of event: 11/15/2018
+
+Event number 7
+Name of venue: Brick Breeden Fieldhouse
+Location of event: Bozeman, MT - United States
+Date of event: 11/17/2018
+
+Event number 8
+Name of venue: Target Center
+Location of event: Minneapolis, MN - United States
+Date of event: 11/20/2018
+
+Event number 9
+Name of venue: Pinnacle Bank Arena
+Location of event: Lincoln, NE - United States
+Date of event: 11/21/2018
+
+Event number 10
+Name of venue: Denny Sanford Premier Center
+Location of event: Sioux Falls, SD - United States
+Date of event: 11/23/2018
+
+Event number 11
+Name of venue: Resch Center
+Location of event: Green Bay, WI - United States
+Date of event: 11/24/2018
+
+Event number 12
+Name of venue: Van Andel Arena
+Location of event: Grand Rapids, MI - United States
+Date of event: 11/26/2018
+
+Event number 13
+Name of venue: U.S. Cellular Center
+Location of event: Cedar Rapids, IA - United States
+Date of event: 11/27/2018
+
+Event number 14
+Name of venue: Chesapeake Energy Arena
+Location of event: Oklahoma City, OK - United States
+Date of event: 11/29/2018
+
+Event number 15
+Name of venue: Verizon Arena
+Location of event: North Little Rock, AR - United States
+Date of event: 12/01/2018
+
+Event number 16
+Name of venue: Mississippi Coast Coliseum
+Location of event: Biloxi, MS - United States
+Date of event: 12/03/2018
+
+Event number 17
+Name of venue: CFE Arena
+Location of event: Orlando, FL - United States
+Date of event: 12/05/2018
+
+Event number 18
+Name of venue: Crown Complex
+Location of event: Fayetteville, NC - United States
+Date of event: 12/07/2018
+
+Event number 19
+Name of venue: Big Sandy Superstore Arena
+Location of event: Huntington, WV - United States
+Date of event: 12/08/2018
+
+Event number 20
+Name of venue: Times Union Center
+Location of event: Albany, NY - United States
+Date of event: 12/10/2018
+
+Event number 21
+Name of venue: Cross Insurance Arena
+Location of event: Portland, ME - United States
+Date of event: 12/11/2018
+
+Event number 22
+Name of venue: Starland Ballroom
+Location of event: Sayreville, NJ - United States
+Date of event: 12/13/2018
+
+Event number 23
+Name of venue: The Norva
+Location of event: Norfolk, VA - United States
+Date of event: 12/15/2018
+
+
+*******************************************************************
+2018-10-18 20:44:48 node liri "concert-this" "Breaking Benjamin" "An Extra Arg" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:44:52 node liri "spotify-this-song" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:44:54 node liri "spotify-this-song" "" 
+*******************************************************************
+No song entered, defaulting...
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Enema Of The State
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Enema Of The State
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Greatest Hits
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Enema Of The State / Take Off Your Pants And Jacket / Blink-182
+
+Rockabye Baby!
+What's My Age Again?
+https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU
+Lullaby Renditions of Blink-182
+
+Vitamin String Quartet
+What's My Age Again?
+https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz
+Vitamin String Quartet Performs Blink-182
+
+Various Artists
+What's My Age Again?
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+Throwback Tunes: 90s
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Greatest Hits
+
+Various Artists
+What's My Age Again?
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+Graduation Mix 2018
+
+Sparrow Sleeps
+What's My Age Again?
+https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw
+Boob Ranch: Lullaby renditions of Blink 182 songs
+
+Dot Dot Curve
+Blunts Ass & Titties
+https://open.spotify.com/artist/17T9n6qQEPbKvrR7mG3mVn
+What's My Age Again
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Enema Of The State
+
+Our Untold Story
+What's My Age Again - Cover
+https://open.spotify.com/artist/4vl0h0RTFaTqPbrz2G3UMd
+#Tbt - Live & Demos - EP
+
+blink-182
+What's My Age Again?
+https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP
+Enema Of The State
+
+Lucas King
+What's My Age Again?
+https://open.spotify.com/artist/23bKc6bG4JatARWH7UxsKk
+Piano Collections, Vol. 1 - Blink 182
+
+Midnite String Quartet
+What's My Age Again?
+https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat
+MSQ Performs blink-182
+
+8-Bit Misfits
+What's My Age Again?
+https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic
+8-Bit Versions of blink-182
+
+Various Artists
+What's My Age Again
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+Pacific Ridge Record's Heroes of Pop-punk (Limited Edition)
+
+Dot Dot Curve
+Turn My Freak On
+https://open.spotify.com/artist/17T9n6qQEPbKvrR7mG3mVn
+What's My Age Again
+
+Dot Dot Curve
+TwentyThirteen
+https://open.spotify.com/artist/17T9n6qQEPbKvrR7mG3mVn
+What's My Age Again
+
+
+*******************************************************************
+2018-10-18 20:44:58 node liri "spotify-this-sonN" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:00 node liri "spotify-this-sonN" "Hail to the king" 
+*******************************************************************
+You have entered an invalid command.
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:02 node liri "spotify-this-song" "Hail to the king" 
+*******************************************************************
+
+Avenged Sevenfold
+Hail to the King
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Shepherd of Fire
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+This Means War
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Coming Home
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Doing Time
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Heretic
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Acid Rain
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Requiem
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Crimson Day
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Planets
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail to the King
+
+Avenged Sevenfold
+Hail To The King - Live At The GRAMMY Museum®
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Live At The GRAMMY Museum®
+
+Dream Evil
+Hail to the King
+https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB
+Dragonslayer
+
+Sabaton
+Hail To The King
+https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG
+Metalizer (Re-Armed)
+
+Slick Shawn
+Hail to the King
+https://open.spotify.com/artist/0IqyXJV3gOB9gP9I7mepmA
+Hail to the King
+
+Avenged Sevenfold
+Nightmare Theme
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail To The King: Deathbat (Original Video Game Soundtrack)
+
+Avenged Sevenfold
+Andronikos Theme
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail To The King: Deathbat (Original Video Game Soundtrack)
+
+Avenged Sevenfold
+Unholy Theme
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail To The King: Deathbat (Original Video Game Soundtrack)
+
+Sabaton
+Hail To The King
+https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG
+Metalizer (Re-Armed)
+
+Adrian Von Ziegler
+Hail to the King
+https://open.spotify.com/artist/6qDQ6rJG5TOT7PppxBKhqI
+The Celtic Collection II
+
+Avenged Sevenfold
+Bat Country Theme
+https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs
+Hail To The King: Deathbat (Original Video Game Soundtrack)
+
+
+*******************************************************************
+2018-10-18 20:45:06 node liri "spotify-this-song" "Hail to the king" "An Extra Arg" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:10 node liri "movie-this" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:13 node liri "movie-this" "" 
+*******************************************************************
+No movie entered, defaulting...
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Raing: 7.9
+Rotten Tomatoes rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+*******************************************************************
+2018-10-18 20:45:17 node liri "movie-thiD" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:19 node liri "movie-thiD" "Holes" 
+*******************************************************************
+You have entered an invalid command.
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:45:21 node liri "movie-this" "Holes" 
+*******************************************************************
+
+Title: Holes
+Year: 2003
+IMDB Raing: 7.0
+Rotten Tomatoes rating: 78%
+Country: USA
+Language: English
+Plot: A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.
+Actors: Sigourney Weaver, Jon Voight, Tim Blake Nelson, Shia LaBeouf
+
+
+*******************************************************************
+2018-10-18 20:45:24 node liri "movie-this" "Holes" "An Extra Arg" 
+*******************************************************************
+
+Usage is:
+node liri.js concert-this "band/artist name"
+node liri.js spotify-this-song "song name"
+node liri.js movie-this "movie name"
+node liri.js do-what-it-says
+
+*******************************************************************
+2018-10-18 20:47:30 node liri "do-what-it-says" 
+*******************************************************************
+
+*******************************************************************
+2018-10-18 20:47:30 node liri "spotify-this-song" "I Want it That Way" 
+*******************************************************************
+
+Backstreet Boys
+I Want It That Way
+https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+The Hits--Chapter One
+
+Backstreet Boys
+I Want It That Way
+https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7
+Millennium
+
+Anthem Lights
+I Want It That Way
+https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ
+Covers Part IV
+
+Tyler and Mark
+I Want It That Way
+https://open.spotify.com/artist/6dBIk14xcZqU0cRsyjXNkX
+Beautiful Dreams
+
+Manuel Costa
+I Want It That Way
+https://open.spotify.com/artist/7AbYSzOocUvzy7DSJ9gm68
+I Want It That Way
+
+Various Artists
+I Want It That Way
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+Punk Goes Pop
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG
+Poodle Hat
+
+Various Artists
+I Want It That Way
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+90 Sweet 90s Hits!
+
+NKOTBSB
+I Want It That Way
+https://open.spotify.com/artist/4BjHiejt4AKg6BHeCjtAcF
+NKOTBSB
+
+Boyce Avenue
+I Want It That Way
+https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv
+Cover Sessions, Vol. 2
+
+Glee Cast
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm
+Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+Steel Panther
+I Want It That Way
+https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv
+I Want It That Way
+
+Various Artists
+I Want It That Way
+https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
+NOW That's What I Call 90s Pop
+
+Scary Pockets
+I Want It That Way
+https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN
+Nu Funk
+
+"Weird Al" Yankovic
+Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG
+The Essential "Weird Al" Yankovic
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc
+Selfies on Kodachrome
+
+#90s Update
+I Want It That Way
+https://open.spotify.com/artist/283labP4pvBfnIeozzFzR3
+#90s Update
+
+Scott Bradlee's Postmodern Jukebox
+I Want It That Way
+https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc
+PMJ Is For Lovers: The Love Song Collection
+
+Landon Austin
+I Want It That Way
+https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52
+I Want It That Way
+
+Jay Smith
+I Want It That Way
+https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1
+Jay Smith
+
